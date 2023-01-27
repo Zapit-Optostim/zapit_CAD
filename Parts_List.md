@@ -16,7 +16,7 @@ Regardless of how you assemble the components, you will require the following.
 If you are using our custom enclosure, you will need the following components.
 | Item | Description | Approx Cost |
 | --- | --- | --- |
-| [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | 4x 1/2" cage rods | 16 GBP |
+| [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | Packet of 4 1/2" cage rods | 16 GBP |
 | [PFR10-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01) | 25 x 36 mm camera fold mirror | 75 GBP |
 | [SS6MS6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SS6MS6) | 6 mm M6 set screws* to plug adjustment holes | 5 GBP |
 | [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tube to house objective lens | 12 GBP |
@@ -34,9 +34,8 @@ There is no parts list for this option, but if you choose it and are using the c
 
 | Item | Description | Approx Cost |
 | --- | --- | --- |
-| |2m fibre patch cable | 200 GBP |
-| |FiberPort Collimator to launch beam into fibre | 500 GBP |
-| | Collimating lens to produce a collimate beam at the scan head | 200 GBP |
+| [M122L02](https://www.thorlabs.com/thorproduct.cfm?partnumber=M122L02) | 2m fibre patch cable | 75 GBP |
+| 2x [PAF2-A4A](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2-A4A)| FiberPort Collimators for both ends of the fibre | 505 GBP |
 
 
 ## 4. The expensive parts
