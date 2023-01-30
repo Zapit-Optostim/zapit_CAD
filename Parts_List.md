@@ -1,6 +1,7 @@
 # Parts list
 
 Prices are correct as of January 2023.
+Metric part numbers are listed but Imperial are also available (remove the `/M` from the ThorLabs product codes).
 
 ## 1. Common optomechanical parts
 Regardless of how you assemble the components, you will require the following.
@@ -24,6 +25,9 @@ If you are using our custom enclosure, you will need the following components.
 
 *Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
 
+**NOTE:** You will also need parts to mount the enclosure within your rig.
+These are not included above.
+If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M)
 
 ## 3. Fibre-coupling parts
 If you wish to launch a non-fibre-coupled laser into the scan-head via a fibre then you will need to buy these parts.
@@ -36,6 +40,10 @@ There is no parts list for this option, but if you choose it and are using the c
 | --- | --- | --- |
 | [M122L02](https://www.thorlabs.com/thorproduct.cfm?partnumber=M122L02) | 2m fibre patch cable | 75 GBP |
 | 2x [PAF2-A4A](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2-A4A)| FiberPort Collimators for both ends of the fibre | 505 GBP |
+| [ER3-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER3-P4) | Pack of 4 3" cage rods | 21 GBP |
+| [CP08/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08/M) | SM1-threaded  30 mm Cage Plate | 17 GBP |
+[CP08FP/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08FP/M) |  FiberPort Adapter for 30 mm Cage System | 25 GBP |
+| [Heat sink and mount of laser](https://www.edmundoptics.co.uk/p/coherentreg-obistrade-heat-sink-34249/3636/ | This part will require modifications | 180 GBP |
 
 
 ## 4. The expensive parts
