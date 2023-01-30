@@ -43,7 +43,7 @@ There is no parts list for this option, but if you choose it and are using the c
 | [ER3-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER3-P4) | Pack of 4 3" cage rods | 21 GBP |
 | [CP08/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08/M) | SM1-threaded  30 mm Cage Plate | 17 GBP |
 [CP08FP/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08FP/M) |  FiberPort Adapter for 30 mm Cage System | 25 GBP |
-| [Heat sink and mount of laser](https://www.edmundoptics.co.uk/p/coherentreg-obistrade-heat-sink-34249/3636/ | This part will require modifications | 180 GBP |
+| [Heat sink and mount of laser](https://www.edmundoptics.co.uk/p/coherentreg-obistrade-heat-sink-34249/3636/) | This part will require modifications | 180 GBP |
 
 
 ## 4. The expensive parts
