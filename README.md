@@ -8,3 +8,5 @@ The second is to use our CAD model to machine a compact custom enclosure.
 
 See the [Parts List](Parts_List.md) for a list of parts required.
 
+
+<img src="https://github.com/Zapit-Optostim/.github/blob/main/zapit_v1_photo.jpg">
