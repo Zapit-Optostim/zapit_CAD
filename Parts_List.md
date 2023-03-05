@@ -80,6 +80,8 @@ Obis is also available.
 The output of 75 mW is more than enough.
 We are using the Obis lasers because they have proven to be reliable, stable, and switch very quickly.
 
+The Obis laser will need two [male SMB to male BNC cables](https://uk.rs-online.com/web/p/coaxial-cable/7600405) to interface with the DAQ. 
+
 Other (untested) options that are slightly different wavelength but much cheaper and in principle should work well include:
 * [Oxxius 450 nm 70 mW](https://www.oxxius.com/products/lbx-405-5/) at about 2800 GBP.
 * [Oxxius 488 nm 40 mW](https://www.oxxius.com/products/lbx-488/) at about 2800 GBP.
