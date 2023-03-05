@@ -25,9 +25,10 @@ If you are using our custom enclosure, you will need the following components.
 
 *Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
 
+
 **NOTE:** You will also need parts to mount the enclosure within your rig.
 These are not included above.
-If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M)
+If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M).
 
 ## 3. Fibre-coupling parts
 If you wish to launch a non-fibre-coupled laser into the scan-head via a fibre then you will need to buy these parts.
