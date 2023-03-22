@@ -100,3 +100,10 @@ We are using [Mean Well Switching Power Supply, 24V dc, 4.2A](https://uk.rs-onli
 
 Please note these power supplies have exposed screw terminals carrying mains voltage.
 Talk to an experienced engineer if you are unsure about wiring and housing them safely.
+
+
+## 5. Tools and small parts
+* Hex keys: 1.5 mm, 2.5 mm, 3/32, 0.05"
+* 3x 3 mm grub screws. 5 mm long are fine. 
+* [SM1 lens tool](https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW602)
+ 
