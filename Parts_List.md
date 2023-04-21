@@ -9,8 +9,8 @@ Regardless of how you assemble the components, you will require the following.
 | --- | --- | --- |
 | [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39)| Green emission filter | 220 GBP |
 | [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichoic | 200 GBP |
-| [AC254-100-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-100-A) | f=100 mm achromatic lens | 65 GBP |
-| [AC254-050-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-050-A) | f=50 mm achromatic lens | 65 GBP |
+| 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=200 mm achromatic lens | 65 GBP |
+| 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=150 mm achromatic lens | 65 GBP |
 | [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | C-Mount to SM1 adapter | 16 GBP |
 
 ## 2. Optomechanical parts specific to our machined enclosure
@@ -22,6 +22,7 @@ If you are using our custom enclosure, you will need the following components.
 | [SS6MS6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SS6MS6) | 6 mm M6 set screws* to plug adjustment holes | 5 GBP |
 | [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tube to house objective lens | 12 GBP |
 | [SM1L05](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L05) | 0.5" SM1 lens tube to house tube lens | 11 GBP |
+| [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) | 1" BK7 window 1 mm thick |  t = 1 mm |
 
 *Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
 
