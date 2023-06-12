@@ -20,8 +20,9 @@ If you are using our custom enclosure, you will need the following components.
 | [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | Packet of 4 1/2" cage rods | 16 GBP |
 | [PFR10-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01) | 25 x 36 mm camera fold mirror | 75 GBP |
 | [SS6MS6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SS6MS6) | 6 mm M6 set screws* to plug adjustment holes | 5 GBP |
-| [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tube to house objective lens | 12 GBP |
-| [SM1L05](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L05) | 0.5" SM1 lens tube to house tube lens | 11 GBP |
+| 3x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 12 GBP |
+| [SM1L03](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L05) | 0.3" SM1 lens tube to couple the camera | 11 GBP |
+| [SM1CPL10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CPL10) | To couple the camera | 30 GBP |
 | [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) | 1" BK7 window 1 mm thick |  75 GBP |
 
 *Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
