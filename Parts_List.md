@@ -39,6 +39,8 @@ If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.tho
 
 ## 3. Fibre-coupling parts
 If you wish to launch a non-fibre-coupled laser into the scan-head via a fibre then you will need to buy these parts.
+**NOTE**: The fibre-coupling is expensive and not necessary. 
+You can launch the laser directly into the enclosure using a modified heats-sink from EO (below) and a [KCB1C/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1C/M#ad-image-0).
 If your laser is already fibre-coupled you will need only the collimating lens.
 Do not buy the FibrePort and the Fibre if you have a laser that is shipped fibre-coupled.
 You may also launch the laser directly into the scan-head using mirrors.
