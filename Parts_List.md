@@ -39,12 +39,14 @@ If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.tho
 
 ## 3. Fibre-coupling parts
 If you wish to launch a non-fibre-coupled laser into the scan-head via a fibre then you will need to buy these parts.
-**NOTE**: The fibre-coupling is expensive and not necessary. 
-You can launch the laser directly into the enclosure using a modified heats-sink from EO (below) and a [KCB1C/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1C/M#ad-image-0).
 If your laser is already fibre-coupled you will need only the collimating lens.
 Do not buy the FibrePort and the Fibre if you have a laser that is shipped fibre-coupled.
-You may also launch the laser directly into the scan-head using mirrors.
-There is no parts list for this option, but if you choose it and are using the custom enclosure you will want to add a glass window over the galvo entry port. A [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) is suitable.
+You will need to modify the EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
+The easiest way is to add 4x 4-40 threaded holes around the opening to attach rods and cages. 
+
+**NOTE**: The fibre-coupling is expensive and will suck up power: You can also launch the laser directly into the enclosure using the modified heats-sink from EO and a [KCB1C/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1C/M#ad-image-0) mirror holder.
+You can use 0.5 or 1" cage rods. 
+If you choose this option for the custom enclosure you will want to add a glass window over the galvo entry port. A [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) is suitable.
 
 | Item | Description | Approx Cost |
 | --- | --- | --- |
