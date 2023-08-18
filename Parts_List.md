@@ -9,8 +9,8 @@ Regardless of how you assemble the components, you will require the following.
 | --- | --- | --- |
 | [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39)| Green emission filter | 220 GBP |
 | [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichoic | 200 GBP |
-| 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=200 mm achromatic lens | 65 GBP |
-| 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=150 mm achromatic lens | 65 GBP |
+| 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=200 mm achromatic lens (objective) | 65 GBP |
+| 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=150 mm achromatic lens (tube lens) | 65 GBP |
 | 2x [SM1S2M](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1S2M) | 2 mm spacers for lenses | 7 GBP |
 | [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | C-Mount to SM1 adapter | 16 GBP |
 
