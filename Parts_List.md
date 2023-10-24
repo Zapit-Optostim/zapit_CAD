@@ -14,8 +14,8 @@ Regardless of how you assemble the components, you will require the following.
 | 2x [SM1S2M](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1S2M) | 2 mm spacers for lenses | 7 GBP |
 | [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | C-Mount to SM1 adapter | 16 GBP |
 
-With a Basler ace acA1920-40um camera the FOV of a system built with a f=100 mm objective and f=75 mm tube lens will be about 13.5 mm by 9.5 mm.
-Switching to an f=50 mm tube lens gives about 22 mm by 14 mm.
+With a Basler ace acA1920-40um camera the FOV of a system built with a f=100 mm objective and f=75 mm tube lens will be about 13.5 mm by 9.5 mm. This should yield about 7.8 microns/pixel.
+Switching to an f=50 mm tube lens gives about 22 mm by 14 mm. Should tield about 11.72 microns/pixel.
 
 
 ## 2. Optomechanical parts specific to our machined enclosure
