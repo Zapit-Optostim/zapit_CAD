@@ -7,8 +7,8 @@ Metric part numbers are listed but Imperial are also available (remove the `/M` 
 Regardless of how you assemble the components, you will require the following.
 | Item | Description | Approx Cost |
 | --- | --- | --- |
-| [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39)| Green emission filter | 220 GBP |
-| [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) OR [Chroma AT495LP](https://www.chroma.com/products/parts/at495lp)| 25 mm GFP dichoic  (see below)| ~200 GBP |
+| [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39) OR [Chroma AT495LP](https://www.chroma.com/products/parts/at495lp) | 25 mm emission filter | 200 GBP |
+| [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichoic  (see below)| 200 GBP |
 | 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=100 mm achromatic lens (objective) | 65 GBP |
 | 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=75 mm achromatic lens (tube lens) | 65 GBP |
 | 2x [SM1S2M](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1S2M) | 2 mm spacers for lenses | 7 GBP |
