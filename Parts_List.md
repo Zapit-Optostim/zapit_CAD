@@ -95,9 +95,9 @@ If you have a spare PCIe slot and do not care about the possibility of making an
 ### Laser
 So far we have worked exclusively with the [473 nm Obis laser 75 mW](https://coherentinc.force.com/Coherent/1185052?cclcl=en_US).
 These units are are quite expensive at 6000 GBP.
-We have bought the free space version and fibre-coupled ourselves but a fibre-coupled version of the
-Obis is also available.
-The output of 75 mW is more than enough.
+We have bought the free space version and directly fed it into the scan head. 
+We have not tried fibre-coupling for this appliction.
+The output of 75 mW is more than enough for 2 points with a duty cycle of 50% and can do up to about 20 points with a time-averaged power of 2 mW and good mirror coatings. 
 We are using the Obis lasers because they have proven to be reliable, stable, and switch very quickly.
 
 The Obis laser will need one [male SMB to male BNC cable](https://uk.rs-online.com/web/p/coaxial-cable/7600405) to interface with the DAQ. 
