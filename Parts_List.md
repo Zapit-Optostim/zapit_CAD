@@ -104,10 +104,13 @@ The Obis laser will need one [male SMB to male BNC cable](https://uk.rs-online.c
 
 Other (untested) options that are slightly different wavelength but much cheaper and in principle should work well include:
 * [Oxxius 450 nm 70 mW](https://www.oxxius.com/products/lbx-405-5/) at about 2800 GBP.
-* [Oxxius 488 nm 40 mW](https://www.oxxius.com/products/lbx-488/) at about 2800 GBP.
+* [Oxxius 488 nm](https://www.oxxius.com/products/lbx-488/) With the 40 mW at about 2800 GBP and the 100 mW at about 6400 GBP.
 * [MatchBox 450nm 60 mW](https://integratedoptics.com/cw-lasers/450-nm-lasers/450-nm-laser-diode;-free-space) at about 1600 GBP.
 * [MatchBox 488nm 40 mW](https://integratedoptics.com/cw-lasers/488-nm-lasers/488-nm-laser-diode;-free-space) at about 1600 GBP.
 
+Other companies to consider include [Toptica](https://www.toptica.com/products/single-mode-diode-lasers) and [RPMC Lasers](https://www.rpmclasers.com/product/lbx-488-xxx-csb/). 
+You can also look into [Changchun Optoelectronics](www.cnilaser.com/blue_laser473.htm) but be cautious as we have tried some of their cheaper lasers in the past and found them to be unstable. 
+YMMV, though, and they are reasonably priced so might be worth a cautious look.
 
 ### Scanners
 The [5 mm Saturn Scanners](https://www.edmundoptics.co.uk/p/5mm-aperture-protected-silver-saturn-5b-dual-axis-galvanometer-scanner/44527/) are generally kept in stock by Edmund and retail for 2900 GBP.
