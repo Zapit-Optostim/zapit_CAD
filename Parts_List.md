@@ -10,7 +10,7 @@ Regardless of how you assemble the components, you will require the following.
 | [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39) OR [Chroma AT495LP](https://www.chroma.com/products/parts/at495lp) | 25 mm emission filter | 200 GBP |
 | [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichoic  (see below)| 200 GBP |
 | 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=100 mm achromatic lens (objective) | 65 GBP |
-| 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=75 mm achromatic lens (tube lens) | 65 GBP |
+| 2x [AC254-100-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-100-A) OR 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=50/f=75 mm achromatic lens (tube lens) | 65 GBP |
 | 2x [SM1S2M](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1S2M) | 2 mm spacers for lenses | 7 GBP |
 | [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | C-Mount to SM1 adapter | 16 GBP |
 
@@ -20,8 +20,8 @@ Two options are listed above.
 The low-pass filter will work better in dimmer environments. 
 * With Basler a acA1920-40um camera the FOV of a system built with a f=100 mm objective and f=75 mm tube lens will be about 13.5 mm by 9.5 mm. 
 This should yield about 7.8 microns/pixel.
-Switching to an f=50 mm tube lens gives about 22 mm by 14 mm. Should tield about 11.72 microns/pixel.
-
+Switching to an f=50 mm tube lens gives about 22 mm by 14 mm. Should yield about 11.72 microns/pixel.
+The shorter tube lens is recommended to get the whole mouse skull into the FoV at once, but YMMV if you choose a different camera. 
 
 ## 2. Optomechanical parts specific to our machined enclosure
 If you are using our custom enclosure, you will need the following components.
