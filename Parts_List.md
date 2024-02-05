@@ -37,10 +37,6 @@ If you are using our custom enclosure, you will need the following components.
 
 *Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
 
-Tools:
-* 2.5 mm hex key
-* 3/32 hex key
-* 5 mm hex key
 
 **NOTE:** You will also need parts to mount the enclosure within your rig.
 These are not included above.
@@ -126,7 +122,9 @@ Talk to an experienced engineer if you are unsure about wiring and housing them 
 
 
 ## 5. Tools and small parts
+The following is a list of small parts and tools needed to build the system.
+
 * Hex keys: 1.5 mm, 2.5 mm, 3/32, 0.05"
-* 3x 3 mm grub screws. 5 mm long are fine. 
+* 3x 3 mm grub screws. 5 mm long are fine too
 * [SM1 lens tool](https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW602)
  
