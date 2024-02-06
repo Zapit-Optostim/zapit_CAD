@@ -42,25 +42,12 @@ If you are using our custom enclosure, you will need the following components.
 These are not included above.
 If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M).
 
-## 3. Fibre-coupling parts
-We *did not* fibre couple but if you wish to do so, the following parts should work. 
-This has not been tested!
-If your laser is already fibre-coupled you will need only the collimating lens.
-Do not buy the FibrePort and the Fibre if you have a laser that is shipped fibre-coupled.
-You will need to modify the EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
+## 3. Mounting the laser
+You will need to buy and modify an EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
 The easiest way is to add 4x 4-40 threaded holes around the opening to attach rods and cages. 
-
-**NOTE**: The fibre-coupling is expensive and will suck up power: You can also launch the laser directly into the enclosure using the modified heats-sink from EO and a [KCB1C/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1C/M#ad-image-0) mirror holder.
-You can use 0.5 or 1" cage rods. 
-If you choose this option for the custom enclosure you will want to add a glass window over the galvo entry port. A [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) is suitable.
 
 | Item | Description | Approx Cost |
 | --- | --- | --- |
-| [M122L02](https://www.thorlabs.com/thorproduct.cfm?partnumber=M122L02) | 2m fibre patch cable | 75 GBP |
-| 2x [PAF2-A4A](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2-A4A)| FiberPort Collimators for both ends of the fibre | 505 GBP |
-| [ER3-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER3-P4) | Pack of 4 3" cage rods | 21 GBP |
-| [CP08/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08/M) | SM1-threaded  30 mm Cage Plate | 17 GBP |
-[CP08FP/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP08FP/M) |  FiberPort Adapter for 30 mm Cage System | 25 GBP |
 | [Heat sink and mount of laser](https://www.edmundoptics.co.uk/p/coherentreg-obistrade-heat-sink-34249/3636/) | This part will require modifications | 180 GBP |
 
 
