@@ -43,7 +43,8 @@ These are not included above.
 If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M).
 
 ## 3. Fibre-coupling parts
-If you wish to launch a non-fibre-coupled laser into the scan-head via a fibre then you will need to buy these parts.
+We *did not* fibre couple but if you wish to do so, the following parts should work. 
+This has not been tested!
 If your laser is already fibre-coupled you will need only the collimating lens.
 Do not buy the FibrePort and the Fibre if you have a laser that is shipped fibre-coupled.
 You will need to modify the EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
