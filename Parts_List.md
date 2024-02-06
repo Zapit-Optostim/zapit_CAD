@@ -106,13 +106,13 @@ Other (untested) options that are slightly different wavelength but much cheaper
 
 Other companies to consider include [Toptica](https://www.toptica.com/products/single-mode-diode-lasers) and [RPMC Lasers](https://www.rpmclasers.com/product/lbx-488-xxx-csb/). 
 You can also look into [Changchun Optoelectronics](www.cnilaser.com/blue_laser473.htm) but be cautious as we have tried some of their cheaper lasers in the past and found them to be unstable. 
-YMMV, though, and they are reasonably priced so might be worth a cautious look.
+YMMV, though, and they are reasonably priced so might be worth a look.
 
 ### Scanners
 The [5 mm Saturn Scanners](https://www.edmundoptics.co.uk/p/5mm-aperture-protected-silver-saturn-5b-dual-axis-galvanometer-scanner/44527/) are generally kept in stock by Edmund and retail for 2900 GBP.
 They perform very well are near silent under the conditions that we run them.
 Avoid Cambridge Technologies: their lead times are around 1 year and you will need to buy a spare set to insure yourself against potential down time should the scanners fail.
-Failures happen.
+Failures happen and even repairs under warranty can take many months from this vendor.
 
 The scanners come with a controller card but you will also need to buy two PSUs (to generate the +/- 24 V needed).
 We are using [Mean Well Switching Power Supply, 24V dc, 4.2A](https://uk.rs-online.com/web/p/switching-power-supplies/8157450), which retail at about 65 GBP each.
