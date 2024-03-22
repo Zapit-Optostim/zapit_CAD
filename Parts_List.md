@@ -59,6 +59,7 @@ We have been using the [Basler ace acA1920-40um Monochrome USB 3.0 Camera](https
 This camera works well.
 The sensor is about 11 by 7 mm and our hardware magnifies by a factor of 0.5 so the whole sample is visible.
 In principle cameras by other manufacturers will also work, but this is not currently supported by the software.
+Adding support is not planned at present, but would involve adding seperate classes for each camera type and modifying the settings system to cope with this. 
 It is easier to buy the Basler camera.
 
 
@@ -92,6 +93,7 @@ Other (untested) options that are slightly different wavelength but much cheaper
 * [MatchBox 450nm 60 mW](https://integratedoptics.com/cw-lasers/450-nm-lasers/450-nm-laser-diode;-free-space) at about 1600 GBP.
 * [MatchBox 488nm 40 mW](https://integratedoptics.com/cw-lasers/488-nm-lasers/488-nm-laser-diode;-free-space) at about 1600 GBP.
 
+All the laser really needs is the ability to control power with an analog input and a linear power/control input response. Bandwidth of about 200,000 kHz or above should be enough. 
 Other companies to consider include [Toptica](https://www.toptica.com/products/single-mode-diode-lasers) and [RPMC Lasers](https://www.rpmclasers.com/product/lbx-488-xxx-csb/). 
 You can also look into [Changchun Optoelectronics](www.cnilaser.com/blue_laser473.htm) but be cautious as we have tried some of their cheaper lasers in the past and found them to be unstable. 
 YMMV, though, and they are reasonably priced so might be worth a look.
