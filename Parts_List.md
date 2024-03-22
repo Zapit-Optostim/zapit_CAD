@@ -110,6 +110,11 @@ We are using [Mean Well Switching Power Supply, 24V dc, 4.2A](https://uk.rs-onli
 Please note these power supplies have exposed screw terminals carrying mains voltage.
 Talk to an experienced engineer if you are unsure about wiring and housing them safely.
 
+Other plausible scanner options include [ThorLabs GVS002](https://www.thorlabs.com/thorproduct.cfm?partnumber=GVSK2-EC), which are cheap and easy to mount. 
+These scanners have a lower bandwidth than the Saturn scanners and may not be able to cope with more than 2 to 4 points in a single trial. 
+We initially developed a prototype system with these scanners, but we did not test their performance carefully. 
+Thor supply demo systems or/when time allows we can do the tests. 
+
 
 ## 5. Tools and small parts
 The following is a list of small parts and tools needed to build the system.
