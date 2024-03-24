@@ -41,10 +41,11 @@ If you are using our custom enclosure, you will need the following components.
 **NOTE:** You will also need parts to mount the enclosure within your rig.
 These are not included above.
 If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M).
+Alternatively, you might focus by moving the sample up and down. 
 
 ## 3. Mounting the laser
 You will need to buy and modify an EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
-The easiest way is to add 4x 4-40 threaded holes around the opening to attach rods and cages. 
+The easiest way is to add 4x 4-40 threaded holes around the opening to attach rods and cages. We coupled the laser in via a single ThorLabs [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1/M#ad-image-0) mirror mount. 
 
 | Item | Description | Approx Cost |
 | --- | --- | --- |
