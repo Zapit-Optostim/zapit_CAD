@@ -6,4 +6,4 @@ See the [Parts List](Parts_List.md) for a list of parts required.
 Detailed construction instructions are pending. 
 We are keen to help others build the system, so if you feel you lack information please make contact via GitHub and we will get you up and running. 
 
-<img src="https://github.com/Zapit-Optostim/.github/blob/main/zapit_v1_photo.jpg">
+<img src="https://github.com/Zapit-Optostim/.github/blob/main/zapit_with_mouse.png">
