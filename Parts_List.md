@@ -28,7 +28,7 @@ If you are using our custom enclosure, you will need the following components.
 | Item | Description | Approx Cost |
 | --- | --- | --- |
 | 4x [ER025](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER025) | 1/4" cage rods for assembling the enclosure| 14 GBP |
-| 2x [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4)) | 2x packs of 1/2" ER posts for coupling laser to enclosure | 32 GBP |
+| 2x [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | 2x packs of 1/2" ER posts for coupling laser to enclosure | 32 GBP |
 | [PFR10-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01) | 25 x 36 mm camera fold mirror | 75 GBP |
 | [SS6MS6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SS6MS6) | 6 mm M6 set screws* to plug adjustment holes | 5 GBP |
 | 3x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 12 GBP |
